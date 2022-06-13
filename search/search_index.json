@@ -1,0 +1,1 @@
+{"config":{"indexing":"full","lang":["en"],"min_search_length":3,"prebuild_index":false,"separator":"[\\s\\-]+"},"docs":[{"location":"","text":"My Github Page Based on instructions from mkdocs.org .","title":"My Github Page"},{"location":"#my-github-page","text":"Based on instructions from mkdocs.org .","title":"My Github Page"}]}
